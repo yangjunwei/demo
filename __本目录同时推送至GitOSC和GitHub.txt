@@ -1,0 +1,14 @@
+
+
+将项目同时托管到GitHub和Git@OSC
+http://yangjunwei.com/a/2715.html
+
+
+
+推送到GitHub时：
+输入命令：git push github master
+
+推送到Git@OSC时：
+输入命令：git push origin master
+
+
